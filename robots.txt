@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fullmovie2026.github.io/Border2fullmovie/sitemap.xml
